@@ -10,14 +10,14 @@
 	<meta name="description" content="">
 	<meta name="format-detection" content="telephone=no">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<link rel="shortcut icon" href="../resources/img/favicon.png">
+	<link rel="shortcut icon" href="resources/img/favicon.png">
 	<!-- =================== STYLE =================== -->
-	<link rel="stylesheet" href="../../resources/css/slick.min.css">
-	<link rel="stylesheet" href="../../resources/css/bootstrap-grid.css">
-	<link rel="stylesheet" href="../../resources/css/font-awesome.min.css">
-	<link rel="stylesheet" href="../../resources/css/nice-select.css">
-	<link rel="stylesheet" href="../../resources/css/animate.css">
-	<link rel="stylesheet" href="../../resources/css/style.css">
+	<link rel="stylesheet" href="resources/css/slick.min.css">
+	<link rel="stylesheet" href="resources/css/bootstrap-grid.css">
+	<link rel="stylesheet" href="resources/css/font-awesome.min.css">
+	<link rel="stylesheet" href="resources/css/nice-select.css">
+	<link rel="stylesheet" href="resources/css/animate.css">
+	<link rel="stylesheet" href="resources/css/style.css">
 </head>
 
 <body id="home" class="inner-scroll">
@@ -47,15 +47,15 @@
 					</ul>
 					<ul class="icon-right-list">
 						<li><a class="header-like" href="#"><i class="fa fa-heart" aria-hidden="true"></i><span>6</span></a></li>
-						<li><a class="header-user" href="#"><i class="fa fa-user" aria-hidden="true"></i></a></li>
-						<li><a class="header-cart" href="#"><i class="fa fa-shopping-cart" aria-hidden="true"></i></a></li>
+						<li><a class="header-user" href="subpage/my_page.jsp"><i class="fa fa-user" aria-hidden="true"></i></a></li>
+						<li><a class="header-cart" href="subpage/my_cart.jsp"><i class="fa fa-shopping-cart" aria-hidden="true"></i></a></li>
 					</ul>
 				</div>
 			</div>
 		</div>
 		<div class="header-menu">
 			<div class="container">
-				<a href="index.jsp" class="logo"><img src="../../resources/img/logo.svg" alt="logo"></a>
+				<a href="index.jsp" class="logo"><img src="resources/img/logo.svg" alt="logo"></a>
 				<nav class="nav-menu">
 					<ul class="nav-list">
 						<li class="dropdown">
@@ -66,7 +66,7 @@
 							</ul>
 						</li>
 						<li><a href="services.jsp">Services</a></li>
-						<li><a href="./creto/shop.jsp">Shop</a></li>
+						<li><a href="shop.jsp">Shop</a></li>
 						<li><a href="gallery.jsp">Gallery</a></li>
 						<li class="dropdown">
 							<a href="#">Pages <i class="fa fa-angle-down" aria-hidden="true"></i></a>
@@ -94,7 +94,7 @@
 		</ul>
 		<div class="main-slider">
 			<div class="main-slide">
-				<div class="main-slide-bg" style="background-image: url(../resources/img/bg-slider.svg);"></div>
+				<div class="main-slide-bg" style="background-image: url(resources/img/bg-slider.svg);"></div>
 				<div class="container">
 					<div class="main-slide-info">
 						<h2 class="title">best bikes for you</h2>
@@ -103,18 +103,18 @@
 					</div>
 					<div class="slide-img-cover">
 						<a href="single-shop.jsp" class="lable-bike">
-							<div class="lable-bike-img"><img src="../resources/img/bike-info-slide.jpg" alt="img"></div>
+							<div class="lable-bike-img"><img src="resources/img/bike-info-slide.jpg" alt="img"></div>
 							<div class="lable-bike-item">
 								<div class="model">model SX-200</div>
 								<div class="price">$1399</div>
 							</div>
 						</a>
-						<img src="assets/img/img-slider.png" alt="img" class="slide-img">
+						<img src="resources/img/img-slider.png" alt="img" class="slide-img">
 					</div>
 				</div>
 			</div>
 			<div class="main-slide">
-				<div class="main-slide-bg" style="background-image: url(assets/img/bg-slider-2.svg);"></div>
+				<div class="main-slide-bg" style="background-image: url(resources/img/bg-slider-2.svg);"></div>
 				<div class="container">
 					<div class="main-slide-info">
 						<h2 class="title">best bikes for you</h2>
@@ -123,18 +123,18 @@
 					</div>
 					<div class="slide-img-cover">
 						<a href="single-shop.jsp" class="lable-bike">
-							<div class="lable-bike-img"><img src="assets/img/bike-info-slide.jpg" alt="img"></div>
+							<div class="lable-bike-img"><img src="resources/img/bike-info-slide.jpg" alt="img"></div>
 							<div class="lable-bike-item">
 								<div class="model">model M-300</div>
 								<div class="price">$1199</div>
 							</div>
 						</a>
-						<img src="assets/img/img-slider-2.png" alt="img" class="slide-img">
+						<img src="resources/img/img-slider-2.png" alt="img" class="slide-img">
 					</div>
 				</div>
 			</div>
 			<div class="main-slide">
-				<div class="main-slide-bg" style="background-image: url(assets/img/bg-slider-3.svg);"></div>
+				<div class="main-slide-bg" style="background-image: url(resources/img/bg-slider-3.svg);"></div>
 				<div class="container">
 					<div class="main-slide-info">
 						<h2 class="title">best bikes for you</h2>
@@ -143,18 +143,18 @@
 					</div>
 					<div class="slide-img-cover">
 						<a href="single-shop.jsp" class="lable-bike">
-							<div class="lable-bike-img"><img src="assets/img/bike-info-slide.jpg" alt="img"></div>
+							<div class="lable-bike-img"><img src="resources/img/bike-info-slide.jpg" alt="img"></div>
 							<div class="lable-bike-item">
 								<div class="model">model X-230</div>
 								<div class="price">$1099</div>
 							</div>
 						</a>
-						<img src="assets/img/img-slider-3.png" alt="img" class="slide-img">
+						<img src="resources/img/img-slider-3.png" alt="img" class="slide-img">
 					</div>
 				</div>
 			</div>
 			<div class="main-slide">
-				<div class="main-slide-bg" style="background-image: url(assets/img/bg-slider.svg);"></div>
+				<div class="main-slide-bg" style="background-image: url(resources/img/bg-slider.svg);"></div>
 				<div class="container">
 					<div class="main-slide-info">
 						<h2 class="title">best bikes for you</h2>
@@ -163,18 +163,18 @@
 					</div>
 					<div class="slide-img-cover">
 						<a href="single-shop.jsp" class="lable-bike">
-							<div class="lable-bike-img"><img src="assets/img/bike-info-slide.jpg" alt="img"></div>
+							<div class="lable-bike-img"><img src="resources/img/bike-info-slide.jpg" alt="img"></div>
 							<div class="lable-bike-item">
 								<div class="model">model SX-200</div>
 								<div class="price">$1399</div>
 							</div>
 						</a>
-						<img src="assets/img/img-slider.png" alt="img" class="slide-img">
+						<img src="resources/img/img-slider.png" alt="img" class="slide-img">
 					</div>
 				</div>
 			</div>
 			<div class="main-slide">
-				<div class="main-slide-bg" style="background-image: url(assets/img/bg-slider-2.svg);"></div>
+				<div class="main-slide-bg" style="background-image: url(resources/img/bg-slider-2.svg);"></div>
 				<div class="container">
 					<div class="main-slide-info">
 						<h2 class="title">best bikes for you</h2>
@@ -183,13 +183,13 @@
 					</div>
 					<div class="slide-img-cover">
 						<a href="single-shop.jsp" class="lable-bike">
-							<div class="lable-bike-img"><img src="assets/img/bike-info-slide.jpg" alt="img"></div>
+							<div class="lable-bike-img"><img src="resources/img/bike-info-slide.jpg" alt="img"></div>
 							<div class="lable-bike-item">
 								<div class="model">model M-300</div>
 								<div class="price">$1199</div>
 							</div>
 						</a>
-						<img src="assets/img/img-slider-2.png" alt="img" class="slide-img">
+						<img src="resources/img/img-slider-2.png" alt="img" class="slide-img">
 					</div>
 				</div>
 			</div>
@@ -249,7 +249,7 @@
 			<div class="slider-categ-bicycle">
 				<div class="slide-categ-bicycle">
 					<div class="categ-bicycle-item">
-						<img src="assets/img/categ-2.png" alt="category">
+						<img src="resources/img/categ-2.png" alt="category">
 						<div class="categ-bicycle-info">
 							<h4 class="title">mountain <br>& road bikes</h4>
 							<a href="shop.jsp" class="btn"><span>view more</span></a>
@@ -258,7 +258,7 @@
 				</div>
 				<div class="slide-categ-bicycle">
 					<div class="categ-bicycle-item">
-						<img src="assets/img/categ-3.png" alt="category">
+						<img src="resources/img/categ-3.png" alt="category">
 						<div class="categ-bicycle-info">
 							<h4 class="title">bicycle <br>spare parts</h4>
 							<a href="shop.jsp" class="btn"><span>view more</span></a>
@@ -267,7 +267,7 @@
 				</div>
 				<div class="slide-categ-bicycle">
 					<div class="categ-bicycle-item">
-						<img src="assets/img/categ-1.png" alt="category">
+						<img src="resources/img/categ-1.png" alt="category">
 						<div class="categ-bicycle-info">
 							<h4 class="title">accessories <br>& clothing</h4>
 							<a href="shop.jsp" class="btn"><span>view more</span></a>
@@ -276,7 +276,7 @@
 				</div>
 				<div class="slide-categ-bicycle">
 					<div class="categ-bicycle-item">
-						<img src="assets/img/categ-3.png" alt="category">
+						<img src="resources/img/categ-3.png" alt="category">
 						<div class="categ-bicycle-info">
 							<h4 class="title">bicycle <br>spare parts</h4>
 							<a href="shop.jsp" class="btn"><span>view more</span></a>
@@ -289,25 +289,25 @@
 	<!--============ S-CATEGORY-BICYKLE END ============-->
 
 	<!--=============== S-OUR-ADVANTAGES ===============-->
-	<section class="s-our-advantages" style="background-image: url(assets/img/bg-advantages.jpg);">
+	<section class="s-our-advantages" style="background-image: url(resources/img/bg-advantages.jpg);">
 		<span class="mask"></span>
 		<div class="container">
 			<h2 class="title">Our Advantages</h2>
 			<div class="our-advantages-wrap">
 				<div class="our-advantages-item">
-					<img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/advantages-1.svg" alt="icon">
+					<img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/advantages-1.svg" alt="icon">
 					<h5>Free shipping <br>from $500</h5>
 				</div>
 				<div class="our-advantages-item">
-					<img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/advantages-2.svg" alt="icon">
+					<img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/advantages-2.svg" alt="icon">
 					<h5>Warranty service <br>for 3 months</h5>
 				</div>
 				<div class="our-advantages-item">
-					<img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/advantages-3.svg" alt="icon">
+					<img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/advantages-3.svg" alt="icon">
 					<h5>Exchange and return <br>within 14 days</h5>
 				</div>
 				<div class="our-advantages-item">
-					<img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/advantages-4.svg" alt="icon">
+					<img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/advantages-4.svg" alt="icon">
 					<h5>Discounts for <br>customers</h5>
 				</div>
 			</div>
@@ -338,7 +338,7 @@
 										<li><a href="#"><i class="fa fa-refresh" aria-hidden="true"></i></a></li>
 										<li><a href="#"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
 									</ul>
-									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/prod-1.png" alt="product"></a>
+									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/prod-1.png" alt="product"></a>
 									<div class="product-item-cover">
 										<div class="price-cover">
 											<div class="new-price">$1.699</div>
@@ -364,7 +364,7 @@
 										<li><a href="#"><i class="fa fa-refresh" aria-hidden="true"></i></a></li>
 										<li><a href="#"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
 									</ul>
-									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/prod-2.png" alt="product"></a>
+									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/prod-2.png" alt="product"></a>
 									<div class="product-item-cover">
 										<div class="price-cover">
 											<div class="new-price">$1.699</div>
@@ -390,7 +390,7 @@
 										<li><a href="#"><i class="fa fa-refresh" aria-hidden="true"></i></a></li>
 										<li><a href="#"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
 									</ul>
-									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/prod-3.png" alt="product"></a>
+									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/prod-3.png" alt="product"></a>
 									<div class="product-item-cover">
 										<div class="price-cover">
 											<div class="new-price">$1.699</div>
@@ -416,7 +416,7 @@
 										<li><a href="#"><i class="fa fa-refresh" aria-hidden="true"></i></a></li>
 										<li><a href="#"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
 									</ul>
-									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/prod-4.png" alt="product"></a>
+									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/prod-4.png" alt="product"></a>
 									<div class="product-item-cover">
 										<div class="price-cover">
 											<div class="new-price">$1.699</div>
@@ -441,7 +441,7 @@
 										<li><a href="#"><i class="fa fa-refresh" aria-hidden="true"></i></a></li>
 										<li><a href="#"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
 									</ul>
-									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/prod-5.png" alt="product"></a>
+									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/prod-5.png" alt="product"></a>
 									<div class="product-item-cover">
 										<div class="price-cover">
 											<div class="new-price">$1.699</div>
@@ -466,7 +466,7 @@
 										<li><a href="#"><i class="fa fa-refresh" aria-hidden="true"></i></a></li>
 										<li><a href="#"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
 									</ul>
-									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/prod-6.png" alt="product"></a>
+									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/prod-6.png" alt="product"></a>
 									<div class="product-item-cover">
 										<div class="price-cover">
 											<div class="new-price">$1.699</div>
@@ -491,7 +491,7 @@
 										<li><a href="#"><i class="fa fa-refresh" aria-hidden="true"></i></a></li>
 										<li><a href="#"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
 									</ul>
-									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/prod-7.png" alt="product"></a>
+									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/prod-7.png" alt="product"></a>
 									<div class="product-item-cover">
 										<div class="price-cover">
 											<div class="new-price">$1.699</div>
@@ -516,7 +516,7 @@
 										<li><a href="#"><i class="fa fa-refresh" aria-hidden="true"></i></a></li>
 										<li><a href="#"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
 									</ul>
-									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/prod-8.png" alt="product"></a>
+									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/prod-8.png" alt="product"></a>
 									<div class="product-item-cover">
 										<div class="price-cover">
 											<div class="new-price">$1.699</div>
@@ -545,7 +545,7 @@
 										<li><a href="#"><i class="fa fa-refresh" aria-hidden="true"></i></a></li>
 										<li><a href="#"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
 									</ul>
-									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/prod-5.png" alt="product"></a>
+									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/prod-5.png" alt="product"></a>
 									<div class="product-item-cover">
 										<div class="price-cover">
 											<div class="new-price">$1.699</div>
@@ -570,7 +570,7 @@
 										<li><a href="#"><i class="fa fa-refresh" aria-hidden="true"></i></a></li>
 										<li><a href="#"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
 									</ul>
-									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/prod-6.png" alt="product"></a>
+									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/prod-6.png" alt="product"></a>
 									<div class="product-item-cover">
 										<div class="price-cover">
 											<div class="new-price">$1.699</div>
@@ -596,7 +596,7 @@
 										<li><a href="#"><i class="fa fa-refresh" aria-hidden="true"></i></a></li>
 										<li><a href="#"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
 									</ul>
-									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/prod-1.png" alt="product"></a>
+									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/prod-1.png" alt="product"></a>
 									<div class="product-item-cover">
 										<div class="price-cover">
 											<div class="new-price">$1.699</div>
@@ -622,7 +622,7 @@
 										<li><a href="#"><i class="fa fa-refresh" aria-hidden="true"></i></a></li>
 										<li><a href="#"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
 									</ul>
-									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/prod-2.png" alt="product"></a>
+									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/prod-2.png" alt="product"></a>
 									<div class="product-item-cover">
 										<div class="price-cover">
 											<div class="new-price">$1.699</div>
@@ -648,7 +648,7 @@
 										<li><a href="#"><i class="fa fa-refresh" aria-hidden="true"></i></a></li>
 										<li><a href="#"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
 									</ul>
-									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/prod-3.png" alt="product"></a>
+									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/prod-3.png" alt="product"></a>
 									<div class="product-item-cover">
 										<div class="price-cover">
 											<div class="new-price">$1.699</div>
@@ -674,7 +674,7 @@
 										<li><a href="#"><i class="fa fa-refresh" aria-hidden="true"></i></a></li>
 										<li><a href="#"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
 									</ul>
-									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/prod-4.png" alt="product"></a>
+									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/prod-4.png" alt="product"></a>
 									<div class="product-item-cover">
 										<div class="price-cover">
 											<div class="new-price">$1.699</div>
@@ -699,7 +699,7 @@
 										<li><a href="#"><i class="fa fa-refresh" aria-hidden="true"></i></a></li>
 										<li><a href="#"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
 									</ul>
-									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/prod-7.png" alt="product"></a>
+									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/prod-7.png" alt="product"></a>
 									<div class="product-item-cover">
 										<div class="price-cover">
 											<div class="new-price">$1.699</div>
@@ -724,7 +724,7 @@
 										<li><a href="#"><i class="fa fa-refresh" aria-hidden="true"></i></a></li>
 										<li><a href="#"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
 									</ul>
-									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/prod-8.png" alt="product"></a>
+									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/prod-8.png" alt="product"></a>
 									<div class="product-item-cover">
 										<div class="price-cover">
 											<div class="new-price">$1.699</div>
@@ -754,7 +754,7 @@
 										<li><a href="#"><i class="fa fa-refresh" aria-hidden="true"></i></a></li>
 										<li><a href="#"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
 									</ul>
-									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/prod-3.png" alt="product"></a>
+									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/prod-3.png" alt="product"></a>
 									<div class="product-item-cover">
 										<div class="price-cover">
 											<div class="new-price">$1.699</div>
@@ -780,7 +780,7 @@
 										<li><a href="#"><i class="fa fa-refresh" aria-hidden="true"></i></a></li>
 										<li><a href="#"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
 									</ul>
-									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/prod-4.png" alt="product"></a>
+									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/prod-4.png" alt="product"></a>
 									<div class="product-item-cover">
 										<div class="price-cover">
 											<div class="new-price">$1.699</div>
@@ -805,7 +805,7 @@
 										<li><a href="#"><i class="fa fa-refresh" aria-hidden="true"></i></a></li>
 										<li><a href="#"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
 									</ul>
-									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/prod-5.png" alt="product"></a>
+									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/prod-5.png" alt="product"></a>
 									<div class="product-item-cover">
 										<div class="price-cover">
 											<div class="new-price">$1.699</div>
@@ -830,7 +830,7 @@
 										<li><a href="#"><i class="fa fa-refresh" aria-hidden="true"></i></a></li>
 										<li><a href="#"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
 									</ul>
-									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/prod-6.png" alt="product"></a>
+									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/prod-6.png" alt="product"></a>
 									<div class="product-item-cover">
 										<div class="price-cover">
 											<div class="new-price">$1.699</div>
@@ -856,7 +856,7 @@
 										<li><a href="#"><i class="fa fa-refresh" aria-hidden="true"></i></a></li>
 										<li><a href="#"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
 									</ul>
-									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/prod-1.png" alt="product"></a>
+									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/prod-1.png" alt="product"></a>
 									<div class="product-item-cover">
 										<div class="price-cover">
 											<div class="new-price">$1.699</div>
@@ -882,7 +882,7 @@
 										<li><a href="#"><i class="fa fa-refresh" aria-hidden="true"></i></a></li>
 										<li><a href="#"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
 									</ul>
-									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/prod-2.png" alt="product"></a>
+									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/prod-2.png" alt="product"></a>
 									<div class="product-item-cover">
 										<div class="price-cover">
 											<div class="new-price">$1.699</div>
@@ -907,7 +907,7 @@
 										<li><a href="#"><i class="fa fa-refresh" aria-hidden="true"></i></a></li>
 										<li><a href="#"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
 									</ul>
-									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/prod-7.png" alt="product"></a>
+									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/prod-7.png" alt="product"></a>
 									<div class="product-item-cover">
 										<div class="price-cover">
 											<div class="new-price">$1.699</div>
@@ -932,7 +932,7 @@
 										<li><a href="#"><i class="fa fa-refresh" aria-hidden="true"></i></a></li>
 										<li><a href="#"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
 									</ul>
-									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/prod-8.png" alt="product"></a>
+									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/prod-8.png" alt="product"></a>
 									<div class="product-item-cover">
 										<div class="price-cover">
 											<div class="new-price">$1.699</div>
@@ -961,7 +961,7 @@
 										<li><a href="#"><i class="fa fa-refresh" aria-hidden="true"></i></a></li>
 										<li><a href="#"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
 									</ul>
-									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/prod-5.png" alt="product"></a>
+									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/prod-5.png" alt="product"></a>
 									<div class="product-item-cover">
 										<div class="price-cover">
 											<div class="new-price">$1.699</div>
@@ -986,7 +986,7 @@
 										<li><a href="#"><i class="fa fa-refresh" aria-hidden="true"></i></a></li>
 										<li><a href="#"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
 									</ul>
-									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/prod-6.png" alt="product"></a>
+									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/prod-6.png" alt="product"></a>
 									<div class="product-item-cover">
 										<div class="price-cover">
 											<div class="new-price">$1.699</div>
@@ -1012,7 +1012,7 @@
 										<li><a href="#"><i class="fa fa-refresh" aria-hidden="true"></i></a></li>
 										<li><a href="#"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
 									</ul>
-									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/prod-1.png" alt="product"></a>
+									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/prod-1.png" alt="product"></a>
 									<div class="product-item-cover">
 										<div class="price-cover">
 											<div class="new-price">$1.699</div>
@@ -1038,7 +1038,7 @@
 										<li><a href="#"><i class="fa fa-refresh" aria-hidden="true"></i></a></li>
 										<li><a href="#"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
 									</ul>
-									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/prod-2.png" alt="product"></a>
+									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/prod-2.png" alt="product"></a>
 									<div class="product-item-cover">
 										<div class="price-cover">
 											<div class="new-price">$1.699</div>
@@ -1064,7 +1064,7 @@
 										<li><a href="#"><i class="fa fa-refresh" aria-hidden="true"></i></a></li>
 										<li><a href="#"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
 									</ul>
-									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/prod-3.png" alt="product"></a>
+									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/prod-3.png" alt="product"></a>
 									<div class="product-item-cover">
 										<div class="price-cover">
 											<div class="new-price">$1.699</div>
@@ -1090,7 +1090,7 @@
 										<li><a href="#"><i class="fa fa-refresh" aria-hidden="true"></i></a></li>
 										<li><a href="#"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
 									</ul>
-									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/prod-4.png" alt="product"></a>
+									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/prod-4.png" alt="product"></a>
 									<div class="product-item-cover">
 										<div class="price-cover">
 											<div class="new-price">$1.699</div>
@@ -1115,7 +1115,7 @@
 										<li><a href="#"><i class="fa fa-refresh" aria-hidden="true"></i></a></li>
 										<li><a href="#"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
 									</ul>
-									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/prod-7.png" alt="product"></a>
+									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/prod-7.png" alt="product"></a>
 									<div class="product-item-cover">
 										<div class="price-cover">
 											<div class="new-price">$1.699</div>
@@ -1140,7 +1140,7 @@
 										<li><a href="#"><i class="fa fa-refresh" aria-hidden="true"></i></a></li>
 										<li><a href="#"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
 									</ul>
-									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/prod-8.png" alt="product"></a>
+									<a href="single-shop.jsp" class="product-img"><img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/prod-8.png" alt="product"></a>
 									<div class="product-item-cover">
 										<div class="price-cover">
 											<div class="new-price">$1.699</div>
@@ -1168,9 +1168,9 @@
 	<!--================ S-PRODUCTS END ================-->
 
 	<!--================== S-SUBSCRIBE ==================-->
-	<section class="s-subscribe" style="background-image: url(assets/img/bg-subscribe.jpg);">
+	<section class="s-subscribe" style="background-image: url(resources/img/bg-subscribe.jpg);">
 		<span class="mask"></span>
-		<span class="subscribe-effect wow fadeIn" data-wow-duration="1s" style="background-image: url(assets/img/subscribe-effect.svg);"></span>
+		<span class="subscribe-effect wow fadeIn" data-wow-duration="1s" style="background-image: url(resources/img/subscribe-effect.svg);"></span>
 		<div class="container">
 			<div class="subscribe-left">
 				<h2 class="title"><span>Subscribe</span></h2>
@@ -1181,7 +1181,7 @@
 					<button type="submit" class="btn btn-form btn-yellow"><span>send</span></button>
 				</form>
 			</div>
-			<img class="wow fadeInRightBlur lazy" data-wow-duration=".8s" data-wow-delay=".3s" src="assets/img/placeholder-all.png" data-src="assets/img/subscribe-img.png" alt="img">
+			<img class="wow fadeInRightBlur lazy" data-wow-duration=".8s" data-wow-delay=".3s" src="resources/img/placeholder-all.png" data-src="resources/img/subscribe-img.png" alt="img">
 		</div>
 	</section>
 	<!--================ S-SUBSCRIBE END ================-->
@@ -1197,7 +1197,7 @@
 							<li><a href="#"><i class="fa fa-refresh" aria-hidden="true"></i></a></li>
 							<li><a href="#"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
 						</ul>
-						<a href="single-shop.jsp" class="product-img"><img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/prod-9.png" alt="product"></a>
+						<a href="single-shop.jsp" class="product-img"><img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/prod-9.png" alt="product"></a>
 						<div class="product-item-cover">
 							<div class="price-cover">
 								<div class="new-price">$1.699</div>
@@ -1223,7 +1223,7 @@
 							<li><a href="#"><i class="fa fa-refresh" aria-hidden="true"></i></a></li>
 							<li><a href="#"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
 						</ul>
-						<a href="single-shop.jsp" class="product-img"><img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/prod-10.png" alt="product"></a>
+						<a href="single-shop.jsp" class="product-img"><img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/prod-10.png" alt="product"></a>
 						<div class="product-item-cover">
 							<div class="price-cover">
 								<div class="new-price">$1.499</div>
@@ -1249,7 +1249,7 @@
 							<li><a href="#"><i class="fa fa-refresh" aria-hidden="true"></i></a></li>
 							<li><a href="#"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
 						</ul>
-						<a href="single-shop.jsp" class="product-img"><img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/prod-11.png" alt="product"></a>
+						<a href="single-shop.jsp" class="product-img"><img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/prod-11.png" alt="product"></a>
 						<div class="product-item-cover">
 							<div class="price-cover">
 								<div class="new-price">$1.699</div>
@@ -1275,7 +1275,7 @@
 							<li><a href="#"><i class="fa fa-refresh" aria-hidden="true"></i></a></li>
 							<li><a href="#"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
 						</ul>
-						<a href="single-shop.jsp" class="product-img"><img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/prod-12.png" alt="product"></a>
+						<a href="single-shop.jsp" class="product-img"><img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/prod-12.png" alt="product"></a>
 						<div class="product-item-cover">
 							<div class="price-cover">
 								<div class="new-price">$1.499</div>
@@ -1301,8 +1301,8 @@
 	<!--================ S-TOP-SALE END ================-->
 
 	<!--================== S-FEEDBACK ==================-->
-	<section class="s-feedback" style="background-image: url(assets/img/bg-feedback.jpg);">
-		<span class="effwct-bg-feedback" style="background-image: url(assets/img/effect-bg-feedback.svg);"></span>
+	<section class="s-feedback" style="background-image: url(resources/img/bg-feedback.jpg);">
+		<span class="effwct-bg-feedback" style="background-image: url(resources/img/effect-bg-feedback.svg);"></span>
 		<span class="mask"></span>
 		<div class="container">
 			<h2 class="title">feedback</h2>
@@ -1313,7 +1313,7 @@
 							<p>“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempoinc ididunt ut magna aliqua dolor sit amet, consectetur adipiscing elit magna”</p>
 						</div>
 						<div class="feedback-item-top">
-							<img src="assets/img/feedback-photo-1.png" alt="photo">
+							<img src="resources/img/feedback-photo-1.png" alt="photo">
 							<div class="feedback-title">
 								<h5 class="title"><span>Li piters</span></h5>
 								<ul class="rating">
@@ -1333,7 +1333,7 @@
 							<p>“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempoinc ididunt ut magna aliqua dolor sit amet, consectetur adipiscing elit magna”</p>
 						</div>
 						<div class="feedback-item-top">
-							<img src="assets/img/feedback-photo-2.png" alt="photo">
+							<img src="resources/img/feedback-photo-2.png" alt="photo">
 							<div class="feedback-title">
 								<h5 class="title"><span>Sam Barton</span></h5>
 								<ul class="rating">
@@ -1353,7 +1353,7 @@
 							<p>“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempoinc ididunt ut magna aliqua dolor sit amet, consectetur adipiscing elit magna”</p>
 						</div>
 						<div class="feedback-item-top">
-							<img src="assets/img/feedback-photo-3.png" alt="photo">
+							<img src="resources/img/feedback-photo-3.png" alt="photo">
 							<div class="feedback-title">
 								<h5 class="title"><span>Zoe Tyler</span></h5>
 								<ul class="rating">
@@ -1373,7 +1373,7 @@
 							<p>“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempoinc ididunt ut magna aliqua dolor sit amet, consectetur adipiscing elit magna”</p>
 						</div>
 						<div class="feedback-item-top">
-							<img src="assets/img/feedback-photo-2.png" alt="photo">
+							<img src="resources/img/feedback-photo-2.png" alt="photo">
 							<div class="feedback-title">
 								<h5 class="title"><span>Sam Barton</span></h5>
 								<ul class="rating">
@@ -1401,7 +1401,7 @@
 					<div class="news-item">
 						<h6 class="title"><a href="news.jsp">doloremque laudantium, totam rem aperiam, eaque ipsa quae</a></h6>
 						<div class="news-post-thumbnail">
-							<a href="news.jsp"><img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/news-1.jpg" alt="news"></a>
+							<a href="news.jsp"><img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/news-1.jpg" alt="news"></a>
 						</div>
 						<div class="meta">
 							<span class="date"><i class="fa fa-calendar" aria-hidden="true"></i> Dec 26,2019</span>
@@ -1417,7 +1417,7 @@
 					<div class="news-item">
 						<h6 class="title"><a href="news.jsp">At vero eos et accusamus et iusto odio dignissimos ducim</a></h6>
 						<div class="news-post-thumbnail">
-							<a href="single-news.jsp"><img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/news-2.jpg" alt="news"></a>
+							<a href="single-news.jsp"><img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/news-2.jpg" alt="news"></a>
 						</div>
 						<div class="meta">
 							<span class="date"><i class="fa fa-calendar" aria-hidden="true"></i> Dec 26,2019</span>
@@ -1433,7 +1433,7 @@
 					<div class="news-item">
 						<h6 class="title"><a href="news.jsp">On the other hand, we denounce with righteous indignation a</a></h6>
 						<div class="news-post-thumbnail">
-							<a href="news.jsp"><img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/news-3.jpg" alt="news"></a>
+							<a href="news.jsp"><img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/news-3.jpg" alt="news"></a>
 						</div>
 						<div class="meta">
 							<span class="date"><i class="fa fa-calendar" aria-hidden="true"></i> Dec 26,2019</span>
@@ -1457,27 +1457,27 @@
 			<div class="clients-cover">
 				<div class="client-slide">
 					<div class="client-slide-cover">
-						<img src="assets/img/client-1.svg" alt="img">
+						<img src="resources/img/client-1.svg" alt="img">
 					</div>
 				</div>
 				<div class="client-slide">
 					<div class="client-slide-cover">
-						<img src="assets/img/client-2.svg" alt="img">
+						<img src="resources/img/client-2.svg" alt="img">
 					</div>
 				</div>
 				<div class="client-slide">
 					<div class="client-slide-cover">
-						<img src="assets/img/client-4.svg" alt="img">
+						<img src="resources/img/client-4.svg" alt="img">
 					</div>
 				</div>
 				<div class="client-slide">
 					<div class="client-slide-cover">
-						<img src="assets/img/client-5.svg" alt="img">
+						<img src="resources/img/client-5.svg" alt="img">
 					</div>
 				</div>
 				<div class="client-slide">
 					<div class="client-slide-cover">
-						<img src="assets/img/client-6.svg" alt="img">
+						<img src="resources/img/client-6.svg" alt="img">
 					</div>
 				</div>
 			</div>
@@ -1486,11 +1486,11 @@
 	<!--================= S-CLIENTS END =================-->
 
 	<!--=================== S-BANNER ===================-->
-	<section class="s-banner" style="background-image: url(assets/img/bg-section-banner.jpg);">
+	<section class="s-banner" style="background-image: url(resources/img/bg-section-banner.jpg);">
 		<span class="mask"></span>
 		<div class="banner-img">
-			<div class="banner-img-bg wow fadeIn" data-wow-duration=".6s" style="background-image: url(assets/img/effect-section-banner.svg);"></div>
-			<img class="lazy wow fadeInLeftBlur" data-wow-duration=".8s" data-wow-delay=".3s" src="assets/img/placeholder-all.png" data-src="assets/img/bike-banner.png" alt="img">
+			<div class="banner-img-bg wow fadeIn" data-wow-duration=".6s" style="background-image: url(resources/img/effect-section-banner.svg);"></div>
+			<img class="lazy wow fadeInLeftBlur" data-wow-duration=".8s" data-wow-delay=".3s" src="resources/img/placeholder-all.png" data-src="resources/img/bike-banner.png" alt="img">
 		</div>
 		<div class="container">
 			<h2 class="title">Hyper E-Ride Bike 700C</h2>
@@ -1529,35 +1529,35 @@
 					<li class="comments">234 <i class="fa fa-comment-o" aria-hidden="true"></i></li>
 					<li class="like">134 <i class="fa fa-heart-o" aria-hidden="true"></i></li>
 				</ul>
-				<img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/instagram-1.jpg" alt="img">
+				<img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/instagram-1.jpg" alt="img">
 			</a>
 			<a href="#" class="instagram-item">
 				<ul>
 					<li class="comments">222 <i class="fa fa-comment-o" aria-hidden="true"></i></li>
 					<li class="like">118 <i class="fa fa-heart-o" aria-hidden="true"></i></li>
 				</ul>
-				<img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/instagram-2.jpg" alt="img">
+				<img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/instagram-2.jpg" alt="img">
 			</a>
 			<a href="#" class="instagram-item">
 				<ul>
 					<li class="comments">224 <i class="fa fa-comment-o" aria-hidden="true"></i></li>
 					<li class="like">124 <i class="fa fa-heart-o" aria-hidden="true"></i></li>
 				</ul>
-				<img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/instagram-3.jpg" alt="img">
+				<img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/instagram-3.jpg" alt="img">
 			</a>
 			<a href="#" class="instagram-item">
 				<ul>
 					<li class="comments">155 <i class="fa fa-comment-o" aria-hidden="true"></i></li>
 					<li class="like">107 <i class="fa fa-heart-o" aria-hidden="true"></i></li>
 				</ul>
-				<img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/instagram-4.jpg" alt="img">
+				<img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/instagram-4.jpg" alt="img">
 			</a>
 			<a href="#" class="instagram-item">
 				<ul>
 					<li class="comments">350 <i class="fa fa-comment-o" aria-hidden="true"></i></li>
 					<li class="like">140 <i class="fa fa-heart-o" aria-hidden="true"></i></li>
 				</ul>
-				<img class="lazy" src="assets/img/placeholder-all.png" data-src="assets/img/instagram-5.jpg" alt="img">
+				<img class="lazy" src="resources/img/placeholder-all.png" data-src="resources/img/instagram-5.jpg" alt="img">
 			</a>
 		</div>
 	</section>
@@ -1614,10 +1614,10 @@
 			<div class="footer-bottom">
 				<div class="footer-copyright"><a target="_blank" href="https://rovadex.com">Rovadex</a> © 2019. All Rights Reserved.</div>
 				<ul class="footer-pay">
-					<li><a href="#"><img src="assets/img/footer-pay-1.png" alt="img"></a></li>
-					<li><a href="#"><img src="assets/img/footer-pay-2.png" alt="img"></a></li>
-					<li><a href="#"><img src="assets/img/footer-pay-3.png" alt="img"></a></li>
-					<li><a href="#"><img src="assets/img/footer-pay-4.png" alt="img"></a></li>
+					<li><a href="#"><img src="resources/img/footer-pay-1.png" alt="img"></a></li>
+					<li><a href="#"><img src="resources/img/footer-pay-2.png" alt="img"></a></li>
+					<li><a href="#"><img src="resources/img/footer-pay-3.png" alt="img"></a></li>
+					<li><a href="#"><img src="resources/img/footer-pay-4.png" alt="img"></a></li>
 				</ul>
 			</div>
 		</div>
@@ -1630,11 +1630,11 @@
 	</a>
 	<!--=================== TO TOP END ===================-->
 	<!--==================== SCRIPT	====================-->
-	<script src="assets/js/jquery-2.2.4.min.js"></script>
-	<script src="assets/js/slick.min.js"></script>
-	<script src="assets/js/jquery.nice-select.js"></script>
-	<script src="assets/js/wow.js"></script>
-	<script src="assets/js/lazyload.min.js"></script>
-	<script src="assets/js/scripts.js"></script>
+	<script src="resources/js/jquery-2.2.4.min.js"></script>
+	<script src="resources/js/slick.min.js"></script>
+	<script src="resources/js/jquery.nice-select.js"></script>
+	<script src="resources/js/wow.js"></script>
+	<script src="resources/js/lazyload.min.js"></script>
+	<script src="resources/js/scripts.js"></script>
 </body>
 </html>
